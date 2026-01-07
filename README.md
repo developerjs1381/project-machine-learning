@@ -118,10 +118,6 @@ My projects follow a **Production-First** mindset to ensure reproducibility and 
 ## 📫 Let's Collaborate
 I am open to discussing **Open Source projects, Freelance opportunities, or Full-time roles.**
 
-- **Email:** `your.email@example.com`
-- **LinkedIn:** [Your Profile Name]
-- **Discord:** `your_username`
-
-<p align="right">
-  <i>Last Updated: Jan 2026</i>
-</p>
+- **Email:** `developerjs1381@gmail.com`
+- **LinkedIn:** [https://www.linkedin.com/in/abolfazl-chanbary-053454351/]
+>
